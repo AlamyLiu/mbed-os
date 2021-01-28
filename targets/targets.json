@@ -7063,7 +7063,7 @@
             "PSOC6_02",
             "CORDIO",
             "TFM",
-            "TFM_V1_0",
+            "TFM_V1_2_1",
             "TFM_DUALCPU"
         ],
         "macros_add": [
